@@ -1,6 +1,6 @@
-Proyecto: Simulación de página principal de GitHub
+Proyecto: Simulación de página de GitHub.com
 
-Este proyecto es una simulación de la página principal de GitHub. Este proyecto tiene como objetivo familiarizarnos con el uso de etiquetas HTML mediante la creación de una página web 
+Este proyecto es una simulación de la página de GitHub.com. Este proyecto tiene como objetivo familiarizarnos con el uso de etiquetas HTML mediante la creación de una página web 
 que simula la interfaz de GitHub. A través de este proyecto, aprendimos a usar diversas etiquetas HTML para estructurar una página web.
 
 Descripción del Flujo de Trabajo
@@ -10,11 +10,15 @@ ramas individuales para cada integrante del equipo, lo cuál nos permitió traba
 
 Características:
 
-Simulación de la de GitHub: Emula el diseño de la página de GitHub.
-Tecnologías Utilizadas
+Simulación de la pagina de GitHub: Emula el diseño de la página de GitHub.
+
+Tecnologías Utilizadas:
+
 HTML5: Estructura básica de la página.
 CSS3: Estilos para dar formato a la interfaz de usuario.
-Requisitos
+
+Requisitos:
+
 Para ejecutar este proyecto en tu máquina local, asegúrate de tener lo siguiente:
 Un navegador web (Chrome, Firefox, Safari, etc.).
 
