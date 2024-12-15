@@ -18,6 +18,7 @@ CSS3: Estilos para dar formato a la interfaz de usuario.
 Requisitos
 Para ejecutar este proyecto en tu máquina local, asegúrate de tener lo siguiente:
 Un navegador web (Chrome, Firefox, Safari, etc.).
+
 Integrantes:
 
 - Sebastián Torres
