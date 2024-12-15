@@ -20,8 +20,11 @@ Para ejecutar este proyecto en tu máquina local, asegúrate de tener lo siguien
 Un navegador web (Chrome, Firefox, Safari, etc.).
 Integrantes:
 
-Sebastián Torres
-David Cabrera
-Gustavo Castillo
-Osvaldo Velasco
+- Sebastián Torres
+
+- David Cabrera
+
+- Gustavo Castillo
+
+- Osvaldo Velasco
 
